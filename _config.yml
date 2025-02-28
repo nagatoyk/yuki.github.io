@@ -14,9 +14,9 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             </div>
             <script src="https://giscus.app/client.js"
               data-repo="nagatoyk/yuki.github.io"
-              data-repo-id="MDEwOlJlcG9zaXRvcnkxNzIxMzc1OTQ="
+              data-repo-id="R_kgDOOBJOBw"
               data-category="Announcements"
-              data-category-id="DIC_kwDOCkKces4Clz9j"
+              data-category-id="DIC_kwDOOBJOB84CncEG"
               data-mapping="url"
               data-strict="0"
               data-reactions-enabled="1"
