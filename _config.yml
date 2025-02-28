@@ -35,15 +35,15 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           menu:
             nav: # 导航部分的内容，你也可以自己增加对应的链接
               - title: '首页 / Index'
-                href: /
+                href: /yuki.github.io/
               - title: '留言 / Comments'
-                href: /comments/
+                href: /yuki.github.io/comments/
               - title: '归档 / Archive'
-                href: /archive/
+                href: /yuki.github.io/archive/
               - title: '标签 / Tags'
-                href: /tags/
+                href: /yuki.github.io/tags/
               - title: '捐赠 / Donate'
-                href: /donate/
+                href: /yuki.github.io/donate/
               - title: '简历 / Resume'
                 href: https://resume.wu-kan.cn/
               - title: 'GitHub'
