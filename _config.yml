@@ -35,27 +35,19 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           menu:
             nav: # 导航部分的内容，你也可以自己增加对应的链接
               - title: '首页 / Index'
-                href: /yuki.github.io/
+                href: /yuki.github.io
               - title: '留言 / Comments'
-                href: /yuki.github.io/comments/
+                href: /yuki.github.io/comments
               - title: '归档 / Archive'
-                href: /yuki.github.io/archive/
+                href: /yuki.github.io/archive
               - title: '标签 / Tags'
-                href: /yuki.github.io/tags/
+                href: /yuki.github.io/tags
               - title: '捐赠 / Donate'
-                href: /yuki.github.io/donate/
-              - title: '简历 / Resume'
-                href: https://resume.wu-kan.cn/
+                href: /yuki.github.io/donate
               - title: 'GitHub'
-                href: https://github.com/wu-kan
+                href: https://github.com/nagatoyk
               - title: 'Bilibili'
-                href: https://space.bilibili.com/166390020
-              - title: 'Zhihu'
-                href: https://www.zhihu.com/people/wukan0621
-              - title: 'Google Scholar'
-                href: https://scholar.google.com/citations?user=aU9P37UAAAAJ
-              - title: 'Vjudge'
-                href: https://vjudge.net/user/WuK
+                href: https://space.bilibili.com/695135
               - title: 'jekyll-theme-WuK'
                 href: https://jekyll-theme-WuK.wu-kan.cn/
             footer: | # 页面统计
@@ -179,7 +171,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               />
               <link
                 rel="alternate"
-                href="/feed.xml"
+                href="/yuki.github.io/feed.xml"
                 title="RSS"
                 type="application/rss+xml"
               />
@@ -347,7 +339,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             </a>
             （除特别声明或转载文章外）
             <br/>
-            <a target="_blank" href="/donate/">如果这篇文章帮助到你，可以请我喝一杯咖啡~</a>
+            <a target="_blank" href="/yuki.github.io/donate/">如果这篇文章帮助到你，可以请我喝一杯咖啡~</a>
           related_posts:
             enable: true
         home: # 展示页的配置可跳过，详见<https://revealjs.com/>
